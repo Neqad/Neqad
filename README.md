@@ -1,1 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neqad&hide=contribs,prs)
+
+![Neqad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neqad&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neqad)](https://github.com/anuraghazra/github-readme-stats)
